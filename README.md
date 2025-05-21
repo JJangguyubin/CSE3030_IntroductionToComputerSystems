@@ -1,1 +1,1 @@
-Cache Lab 아직 비공개.
+Lab3(; Cache Lab) : private.
